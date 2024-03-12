@@ -206,8 +206,8 @@
         border: 20px;
     }
     .bottom-info{
-        height: 50px;
-        padding-top:30px ;
-        
+        height: 20px;
+        padding-top:40px ;
+        font-size: 10px; 
     }
 }
